@@ -3,7 +3,7 @@ Les codes fournis nécessitent les librairies xgboost, numpy, catboost,
 umap-learn, matplotlib, scikit-learn et pandas. Il est possible d'installer
 l'environnement conda que j'ai utilisé en lançant le script "conda_env.sh" (linux 64bits).
 
-Avec un GPU l'ensemble des analyses dure environ 1h, sur CPU cela peut prendre plus de
+Avec un GPU l'ensemble des analyses dure environ 30min, sur CPU cela peut prendre plus de
 2h. Les sorties brutes déjà calculées sont disponibles dans le dossier "calculated_outputs/".
 
 Les fichiers de données "data.csv" et "labels.csv" doivent être placés dans un dossier
