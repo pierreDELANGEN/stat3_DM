@@ -1,0 +1,4 @@
+Accuracy with XGBoost feature selection : 0.9962546816479401
+Accuracy with PCA feature selection : 0.8838951310861424
+Accuracy with PCA dimension reduction : 0.9912609238451935
+Accuracy with UMAP dimension reduction : 0.9987515605493134

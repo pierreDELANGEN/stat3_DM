@@ -1,0 +1,5 @@
+Accuracy with 10 genes on BRCA cancer : 0.9987515605493134
+Accuracy with 10 genes on COAD cancer : 0.9987515605493134
+Accuracy with 10 genes on KIRC cancer : 0.9987515605493134
+Accuracy with 10 genes on LUAD cancer : 0.9937578027465668
+Accuracy with 10 genes on PRAD cancer : 1.0
